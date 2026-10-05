@@ -6,7 +6,7 @@ product work.
 
 **Security tooling:** small, single-purpose CLI tools, no frameworks:
 
-- [fxsweep](https://github.com/ReazGan/fxsweep) - FiveM server backdoor scanner: Cipher/Blum Panel loaders, encoded payloads, txAdmin tampering, webhooks leaked to players. Single Go binary
+- [fxsweep](https://github.com/ReazGan/fxsweep) - FiveM server backdoor scanner: Cipher/Blum Panel loaders, encoded payloads, txAdmin tampering, webhooks leaked to players. Single binary, Go.
 - [jwtlint](https://github.com/ReazGan/jwtlint) - offline JWT analyzer: alg:none, RS/HS confusion, jku/jwk/kid injection, secrets in claims, weak HMAC keys. `pip install jwtlint`
 - [subtakeover](https://github.com/ReazGan/subtakeover) - subdomain takeover scanner, CNAME fingerprints confirmed with a live HTTP check
 - [wraith](https://github.com/ReazGan/wraith) - HTTP header/TLS/port misconfiguration scanner
