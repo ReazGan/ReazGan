@@ -53,6 +53,10 @@ single-purpose tools with real tests and no fluff.
 - [vigil](https://github.com/ReazGan/vigil) - network intrusion detection engine: live/pcap capture, signature and behavioral detectors, correlation, and a dashboard with a JWT API.
 - [network-analysis-panel](https://github.com/ReazGan/network-analysis-panel) - visualizes live network traffic on a geographic map and interactive panels.
 
+**Malware and binary analysis**
+
+- [hullscan](https://github.com/ReazGan/hullscan) - static triage for Windows executables: packing, injection APIs, hidden payloads, dangerous strings and Authenticode checks. C++20, no dependencies.
+
 **Web, recon and hardening**
 
 - [spill](https://github.com/ReazGan/spill) - API keys and secrets left in a site's client-side code. Single binary, Go.
