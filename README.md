@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=900&color=D8A24A&center=true&vCenter=true&width=620&lines=Baran+Ayaztas;Security+Researcher+%2B+Full-Stack+Developer" alt="Baran Ayaztas" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=900&color=D8A24A&center=true&vCenter=true&width=660&lines=R%C4%B1za+Baran+Ayazta%C5%9F;Security+Architect+%2B+Full-Stack+Engineer" alt="Riza Baran Ayaztas" />
 
 <p>
 <a href="https://tr.linkedin.com/in/baranayaztas"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
