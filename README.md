@@ -1,39 +1,78 @@
-# Baran Ayaztaş
+<div align="center">
 
-Security researcher and full-stack developer based in Istanbul. Started in
-security, now split between offensive/defensive tooling and web/mobile
-product work.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=900&color=D8A24A&center=true&vCenter=true&width=620&lines=Baran+Ayaztas;Security+Researcher+%2B+Full-Stack+Developer" alt="Baran Ayaztas" />
 
-Small, single-purpose security CLIs:
+<p>
+<a href="https://tr.linkedin.com/in/baranayaztas"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/ReazGan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://instagram.com/baranayztas"><img src="https://img.shields.io/badge/Instagram-DC3175?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://discord.gg/aztecas"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+</p>
 
-**AI & LLM security**
+</div>
+
+---
+
+### About
+
+Security researcher and full-stack developer based in Istanbul. I started in
+security and now split my time between offensive and defensive tooling and
+web/mobile product work. Most of what I build ends up here as small,
+single-purpose tools with real tests and no fluff.
+
+### Tech and tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,go,ts,js,php,swift,lua,cpp,c,bash&perline=10" alt="languages" />
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,fastapi,html,css,tailwind,bootstrap&perline=10" alt="web" />
+<br>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres,docker,linux,git,nginx,githubactions,unity&perline=10" alt="data and tools" />
+
+</div>
+
+### Featured work
+
+**AI and LLM security**
 
 - [sift](https://github.com/ReazGan/sift) - scans AI agent instruction files (CLAUDE.md, .cursorrules, mcp.json) for hidden or planted instructions. `pip install siftscan`
 - [ajar](https://github.com/ReazGan/ajar) - finds exposed, unauthenticated local AI servers (Ollama, ComfyUI, vLLM, ...). Single binary, Go.
+- [ward](https://github.com/ReazGan/ward) - a security-review skill pack for AI coding agents.
 
-**CI/CD & supply chain**
+**CI/CD and supply chain**
 
 - [cicheck](https://github.com/ReazGan/cicheck) - security linter for GitLab CI, CircleCI, Azure, Bitbucket, Drone, Travis. `pip install cicheck`
 - [depsweep](https://github.com/ReazGan/depsweep) - supply-chain risks in npm/pip dependencies: install hooks, typosquats, insecure sources. `pip install depsweep`
 - [dockaudit](https://github.com/ReazGan/dockaudit) - Dockerfile and docker-compose security. Single binary, Go.
+- [extsweep](https://github.com/ReazGan/extsweep) - browser extension auditor: risky permissions and known-malicious IDs. Single binary, Go.
 
-**Web, recon & hardening**
+**Network defense**
+
+- [vigil](https://github.com/ReazGan/vigil) - network intrusion detection engine: live/pcap capture, signature and behavioral detectors, correlation, and a dashboard with a JWT API.
+
+**Web, recon and hardening**
 
 - [spill](https://github.com/ReazGan/spill) - API keys and secrets left in a site's client-side code. Single binary, Go.
-- [subtakeover](https://github.com/ReazGan/subtakeover) - subdomain takeover scanner, CNAME fingerprints confirmed with a live HTTP check
-- [wraith](https://github.com/ReazGan/wraith) - HTTP header/TLS/port misconfiguration scanner
-- [urlgrave](https://github.com/ReazGan/urlgrave) - historical URL/subdomain harvester (Wayback + crt.sh)
-- [subrecon](https://github.com/ReazGan/subrecon) - subdomain enumeration
-- [pathbrute](https://github.com/ReazGan/pathbrute) - HTTP directory/path brute-forcer with soft-404 filtering
+- [subtakeover](https://github.com/ReazGan/subtakeover) - subdomain takeover scanner, CNAME fingerprints confirmed with a live HTTP check.
+- [wraith](https://github.com/ReazGan/wraith) - HTTP header/TLS/port misconfiguration scanner.
+- [urlgrave](https://github.com/ReazGan/urlgrave) - historical URL/subdomain harvester (Wayback + crt.sh).
+- [subrecon](https://github.com/ReazGan/subrecon) - subdomain enumeration.
+- [pathbrute](https://github.com/ReazGan/pathbrute) - HTTP directory/path brute-forcer with soft-404 filtering.
 - [jwtlint](https://github.com/ReazGan/jwtlint) - offline JWT analyzer: alg:none, RS/HS confusion, kid injection, weak secrets. `pip install jwtlint`
 - [sshield](https://github.com/ReazGan/sshield) - SSH server/client configuration hardening audit. `pip install sshield`
-- [leakscan](https://github.com/ReazGan/leakscan) - secret/API-key scanner for local files
-- [cellar](https://github.com/ReazGan/cellar) - local encrypted secrets vault
+- [leakscan](https://github.com/ReazGan/leakscan) - secret/API-key scanner for local files.
+- [cellar](https://github.com/ReazGan/cellar) - local encrypted secrets vault.
 
 **Game servers**
 
 - [fxsweep](https://github.com/ReazGan/fxsweep) - FiveM server backdoor scanner: Cipher/Blum Panel loaders, encoded payloads, webhooks leaked to players. Single binary, Go.
 
-**Stack:** Python, Go, TypeScript/React, Next.js.
+### GitHub
 
-**Contact:** [LinkedIn](https://tr.linkedin.com/in/baranayaztas)
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ReazGan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=15161A&title_color=D8A24A&text_color=C9CDD6&icon_color=D8A24A" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReazGan&layout=compact&hide_border=true&langs_count=8&bg_color=15161A&title_color=D8A24A&text_color=C9CDD6" alt="top languages" />
+
+</div>
