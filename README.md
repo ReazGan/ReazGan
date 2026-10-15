@@ -76,6 +76,6 @@ single-purpose tools with real tests and no fluff.
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=ReazGan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=15161A&title_color=D8A24A&text_color=C9CDD6&icon_color=D8A24A&hide_rank=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReazGan&layout=compact&hide_border=true&langs_count=8&bg_color=15161A&title_color=D8A24A&text_color=C9CDD6" alt="top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReazGan&layout=compact&hide_border=true&langs_count=10&bg_color=15161A&title_color=D8A24A&text_color=C9CDD6&cache_seconds=1800" alt="top languages" />
 
 </div>
