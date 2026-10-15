@@ -46,10 +46,12 @@ single-purpose tools with real tests and no fluff.
 - [depsweep](https://github.com/ReazGan/depsweep) - supply-chain risks in npm/pip dependencies: install hooks, typosquats, insecure sources. `pip install depsweep`
 - [dockaudit](https://github.com/ReazGan/dockaudit) - Dockerfile and docker-compose security. Single binary, Go.
 - [extsweep](https://github.com/ReazGan/extsweep) - browser extension auditor: risky permissions and known-malicious IDs. Single binary, Go.
+- [KodGozu](https://github.com/ReazGan/KodGozu-SAST-Tool) - AST-based static application security testing (SAST) for Python.
 
 **Network defense**
 
 - [vigil](https://github.com/ReazGan/vigil) - network intrusion detection engine: live/pcap capture, signature and behavioral detectors, correlation, and a dashboard with a JWT API.
+- [network-analysis-panel](https://github.com/ReazGan/network-analysis-panel) - visualizes live network traffic on a geographic map and interactive panels.
 
 **Web, recon and hardening**
 
@@ -63,6 +65,7 @@ single-purpose tools with real tests and no fluff.
 - [sshield](https://github.com/ReazGan/sshield) - SSH server/client configuration hardening audit. `pip install sshield`
 - [leakscan](https://github.com/ReazGan/leakscan) - secret/API-key scanner for local files.
 - [cellar](https://github.com/ReazGan/cellar) - local encrypted secrets vault.
+- [WebConfig-Analyzer](https://github.com/ReazGan/WebConfig-Analyzer) - fast scanner for web server security misconfigurations.
 
 **Game servers**
 
@@ -72,7 +75,7 @@ single-purpose tools with real tests and no fluff.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ReazGan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=15161A&title_color=D8A24A&text_color=C9CDD6&icon_color=D8A24A" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ReazGan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=15161A&title_color=D8A24A&text_color=C9CDD6&icon_color=D8A24A&hide_rank=true" alt="stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReazGan&layout=compact&hide_border=true&langs_count=8&bg_color=15161A&title_color=D8A24A&text_color=C9CDD6" alt="top languages" />
 
 </div>
